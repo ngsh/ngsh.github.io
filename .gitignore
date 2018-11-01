@@ -1,0 +1,13 @@
+# Dev env
+node_modules/
+package-lock.json
+
+# gatsby
+public/
+.cache
+
+# IDE
+.idea/
+
+# FS
+.DS_Store

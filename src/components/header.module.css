@@ -1,0 +1,23 @@
+.header {
+  margin: 0 auto 1rem;
+  max-width: 650px;
+  padding: 1.25rem 1rem;
+}
+
+.header_title {
+  display: inline;
+}
+
+.header_nav_list {
+  list-style: none;
+  float: right;
+}
+
+.header_nav_litem {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+.header_link:hover {
+  text-decoration: none;
+}
