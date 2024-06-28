@@ -1,0 +1,4 @@
+baseURL = 'https://ngsh.io/'
+languageCode = 'en-us'
+title = 'The secret life of NPC Daniel Wu'
+theme = 'ananke'

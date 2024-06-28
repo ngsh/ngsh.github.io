@@ -1,10 +1,16 @@
-# Dev env
-node_modules/
-package-lock.json
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 
-# gatsby
-public/
-.cache
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
 
 # IDE
 .idea/
